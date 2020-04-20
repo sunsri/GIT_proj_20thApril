@@ -1,5 +1,4 @@
-# This program prints Hello, world!
+# This program prints Hello, GIT!
 
-print('Hello, world!')
-print('Hello to the GIT world !!!!......')
+print('Hello GIT !!!!......')
 print("Bye bye CORONA..Never come Again.....")
