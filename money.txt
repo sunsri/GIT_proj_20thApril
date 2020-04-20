@@ -1,1 +1,5 @@
-Euro===in europe
+Euro===in europe and all european countries
+Dollar===>America
+Austrialian Dollar=====>Australia
+Japan=====Yen
+India=====Rupees
