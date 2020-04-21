@@ -1,5 +1,3 @@
-First Name===Mrs.Sunetha Srinivasa
-Last Name===srinivasa
+Name===Mrs.Sunetha Srinivasa
 Company===IBM
-Compnay===VALEO
 County====Galway
